@@ -28,3 +28,5 @@ docker run wogooo/fclx_go
 
 O comando acima iniciará um novo container com base na imagem `wogooo/fclx_go` e executará o código do Desafio Docker e GO.
 
+### Fonte:
+[github](https://github.com/leoviana00/golang-minimal-image)
